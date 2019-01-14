@@ -1,5 +1,5 @@
 <html>
   <body>
-    <span>Span Kullandık</span>
+    <span>php dosyası</span>
   </body>
 </html>
